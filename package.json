@@ -1,0 +1,13 @@
+{
+  "name": "TypeChain",
+  "version": "1.0.0",
+  "description": "learning Typescript by making a blockchain with it",
+  "main": "index.js",
+  "repository": "https://github.com/mun-jeong-min/TypeChain",
+  "author": "munjeongmin",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js",
+    "prestart": "tsc"
+  }
+}
